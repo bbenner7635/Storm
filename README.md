@@ -1,5 +1,6 @@
 # Storm: Electrify your server
 Discord bot for server management
+Built using Discord.py by Rapptz: https://github.com/Rapptz/discord.py
 
 The following commands are implemented in Storm bot:<br />
 s!help               >>      Displays a list of usable commands<br />
